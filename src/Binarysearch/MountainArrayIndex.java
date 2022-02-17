@@ -1,5 +1,5 @@
 package Binarysearch;
-public class MountainArray
+public class MountainArrayIndex
 {
     public static int mountainArray(int[] arr)
     {
