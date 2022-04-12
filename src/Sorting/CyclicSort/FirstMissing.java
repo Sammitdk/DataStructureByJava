@@ -5,7 +5,7 @@ public class FirstMissing
     {
         int[] arr = {-1,20,5,3,2,1};
         System.out.println(firstMissingPositive(arr));
-            }
+    }
     public static int firstMissingPositive(int[] arr)
     {
         int i =0;
@@ -31,6 +31,5 @@ public class FirstMissing
             }
         }
         return arr.length+1;
-
     }
 }
